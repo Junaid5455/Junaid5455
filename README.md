@@ -20,4 +20,4 @@ A collection of Embedded Systems projects developed using **Arduino, AVR microco
 
 ## 🛠️ Technologies
 
-**Python • Django • FastAPI • Next.js • PostgreSQL • C • C++ • Arduino • AVR**
+**Python • Django • FastAPI • Next.js • PostgreSQL • Vercel • Railway • SMTP • C++ • Arduino • AVR**
